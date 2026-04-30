@@ -49,7 +49,7 @@ This project was pivotal in mastering advanced Computer Science fundamentals:
 ## 🚀 How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/aps-quinto-semestre.git](https://github.com/gabrielpaloni/aps-quinto-semestre.git)
+    git clone [https://github.com/gabrielpaloni/aps-quinto-semestre.git](https://github.com/gabrielpaloni/aps-quinto-semestre.git)
     ```
 2.  **Setup Environment:**
     * Open the project in your preferred Java IDE (IntelliJ IDEA, Eclipse)
