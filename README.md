@@ -24,10 +24,10 @@ To implement, analyze, and benchmark different algorithmic approaches—both heu
 
 ## 👥 Contributors (Team)
 
-* **Gabriel Paloni** - *Developer*
-* **Gabriel Paloni** - *Developer*
-* **Gabriel Paloni** - *Developer*
-* **Gabriel Paloni** - *Developer*
+* **Ana Paula Garbin** - *Developer*
+* **Gabriel Henrique de Morais** - *Developer*
+* **Gabriel S. B. Paloni** - *Developer*
+* **Graziela Lopes Romualdo** - *Developer*
 
 ---
 
